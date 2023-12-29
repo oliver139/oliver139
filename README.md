@@ -5,7 +5,7 @@
 
 ☕️ Also love to learn more about coffee brewing
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,vue,express,php,mysql,linux,ai)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,vue,express,mysql,linux,bash,ai,ps)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=oliver139&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
